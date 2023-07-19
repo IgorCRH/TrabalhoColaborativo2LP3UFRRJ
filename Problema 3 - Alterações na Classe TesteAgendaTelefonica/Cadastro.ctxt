@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=entrada
+comment0.target=int\ compareTo(Cadastro)
+comment1.params=pessoa\ numFone
+comment1.target=Cadastro(Pessoa,\ NumeroTelefonico)
+comment2.params=
+comment2.target=Pessoa\ getPessoa()
+comment3.params=
+comment3.target=NumeroTelefonico\ getNumFone()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=Cadastro\ lerEntrada()
+numComments=6

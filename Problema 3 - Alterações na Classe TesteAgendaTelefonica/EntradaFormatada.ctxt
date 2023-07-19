@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ lerInt()
+comment1.params=
+comment1.target=double\ lerDouble()
+comment2.params=
+comment2.target=java.lang.String\ lerString()
+comment3.params=
+comment3.target=int\ lerToken()
+numComments=4
